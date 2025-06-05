@@ -1,0 +1,7 @@
+- "left reads":
+  - "/home/omri/Identiphase/SRR6837539_1.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/home/omri/Identiphase/SRR6837539_2.fastq.gz"
+  "type": "paired-end"

@@ -1,0 +1,280 @@
+
+164100-165497: Score 55: 25/30 ( 83%) matches, 0 gaps
+     876 tgtttcaaaagacgttcgtctgatgcaaca 905     
+         ||||||||||||||||| | |  || ||||
+    1036 acaaagttttctgcaaggaaaaaactttgt 1007    
+
+164505-165513: Score 55: 25/30 ( 83%) matches, 0 gaps
+     471 tgtttcaaaagacgttcgtctgatgcaaca 500     
+         ||||||||||||||||| | |  || ||||
+     631 acaaagttttctgcaaggaaaaaactttgt 602     
+
+166249-167496: Score 70: 30/35 ( 85%) matches, 0 gaps
+     839 aatgatgtttcaaaagacgtacgtctgatgcaaca 873     
+         |||| |||||||||| ||||||||||  || ||||
+    1009 ttaccacaaagttttttgcatgcagaaaactttgt 975     
+
+166249-167496: Score 50: 18/19 ( 94%) matches, 0 gaps
+    1053 cgcataataaaagttgtat 1071    
+         ||||||||||||||| |||
+    1178 gcgtattattttcaagata 1160    
+
+166541-167998: Score 70: 30/35 ( 85%) matches, 0 gaps
+     547 aatgatgtttcaaaagacgtacgtctgatgcaaca 581     
+         |||| |||||||||| ||||||||||  || ||||
+     717 ttaccacaaagttttttgcatgcagaaaactttgt 683     
+
+166541-167998: Score 50: 18/19 ( 94%) matches, 0 gaps
+     761 cgcataataaaagttgtat 779     
+         ||||||||||||||| |||
+     886 gcgtattattttcaagata 868     
+
+167001-168432: Score 70: 30/35 ( 85%) matches, 0 gaps
+      87 aatgatgtttcaaaagacgtacgtctgatgcaaca 121     
+         |||| |||||||||| ||||||||||  || ||||
+     257 ttaccacaaagttttttgcatgcagaaaactttgt 223     
+
+167001-168432: Score 50: 18/19 ( 94%) matches, 0 gaps
+     301 cgcataataaaagttgtat 319     
+         ||||||||||||||| |||
+     426 gcgtattattttcaagata 408     
+
+203793-204995: Score 51: 21/24 ( 87%) matches, 0 gaps
+     621 actctcgcataataaaagttctat 644     
+         |||  ||||||||||||||| |||
+     756 tgaatgcgtattattttcaacata 733     
+
+203793-204995: Score 64: 32/40 ( 80%) matches, 0 gaps
+     790 tacacaatggtgtttcaaaaaacgtacgtcttttgaaaca 829     
+         || | |||  |||||||||| ||||||||||  || ||||
+     970 atattttagaacaaagttttctgcatgcagactacgttgt 931     
+
+204055-205143: Score 51: 21/24 ( 87%) matches, 0 gaps
+     359 actctcgcataataaaagttctat 382     
+         |||  ||||||||||||||| |||
+     494 tgaatgcgtattattttcaacata 471     
+
+204055-205143: Score 64: 32/40 ( 80%) matches, 0 gaps
+     528 tacacaatggtgtttcaaaaaacgtacgtcttttgaaaca 567     
+         || | |||  |||||||||| ||||||||||  || ||||
+     708 atattttagaacaaagttttctgcatgcagactacgttgt 669     
+
+416733-417974: Score 90: 30/30 (100%) matches, 0 gaps
+     376 aaaatggttcttcttcaaatttggtggtaa 405     
+         ||||||||||||||||||||||||||||||
+     893 ttttaccaagaagaagtttaaaccaccatt 864     
+
+783028-784496: Score 53: 19/20 ( 95%) matches, 0 gaps
+    1313 aataataagactactatatc 1332    
+         ||||||||| ||||||||||
+    1360 ttattattccgatgatatag 1341    
+
+783527-784782: Score 53: 19/20 ( 95%) matches, 0 gaps
+     814 aataataagactactatatc 833     
+         ||||||||| ||||||||||
+     861 ttattattccgatgatatag 842     
+
+788004-789446: Score 82: 34/39 ( 87%) matches, 0 gaps
+    1211 aaatcatttacattttgcatgtaggaagttagttttaac 1249    
+         |||||| | |   ||||||||||||||||||||||||||
+    1293 tttagtgattaagaaacgtacatccttcaatcaaaattg 1255    
+
+969238-970283: Score 60: 20/20 (100%) matches, 0 gaps
+     461 aaacgttcgtctatttgaac 480     
+         ||||||||||||||||||||
+     674 tttgcaagcagataaacttg 655     
+
+21299-22414: Score 62: 22/23 ( 95%) matches, 0 gaps
+     768 atgtgtttttagacgtacgttta 790     
+         ||||||||||| |||||||||||
+    1000 tacacaaaaatttgcatgcaaat 978     
+
+21546-22661: Score 62: 22/23 ( 95%) matches, 0 gaps
+     521 atgtgtttttagacgtacgttta 543     
+         ||||||||||| |||||||||||
+     753 tacacaaaaatttgcatgcaaat 731     
+
+213227-214475: Score 57: 19/19 (100%) matches, 0 gaps
+     955 tgtttcaaaaaacgttcgt 973     
+         |||||||||||||||||||
+    1185 acaaagttttttgcaagca 1167    
+
+213501-214792: Score 57: 19/19 (100%) matches, 0 gaps
+     681 tgtttcaaaaaacgttcgt 699     
+         |||||||||||||||||||
+     911 acaaagttttttgcaagca 893     
+
+234212-235499: Score 57: 19/19 (100%) matches, 0 gaps
+     808 tgtttcaaaaaacgttcgt 826     
+         |||||||||||||||||||
+    1037 acaaagttttttgcaagca 1019    
+
+234212-235499: Score 58: 45/59 ( 76%) matches, 2 gaps
+    1105 tatgcgcata-atcttttcttttttaat-ctatttcaccccgttaagtaaataggtcaggt 1163    
+         ||| ||| || ||  ||| |||| || |  | |||| | |||||||  |||||||| ||||
+    1226 atatgcgcatataacaaataaaatataactacaaagcgaggcaatttgtttatccattcca 1166    
+
+234501-235635: Score 57: 19/19 (100%) matches, 0 gaps
+     519 tgtttcaaaaaacgttcgt 537     
+         |||||||||||||||||||
+     748 acaaagttttttgcaagca 730     
+
+234501-235635: Score 58: 45/59 ( 76%) matches, 2 gaps
+     816 tatgcgcata-atcttttcttttttaat-ctatttcaccccgttaagtaaataggtcaggt 874     
+         ||| ||| || ||  ||| |||| || |  | |||| | |||||||  |||||||| ||||
+     937 atatgcgcatataacaaataaaatataactacaaagcgaggcaatttgtttatccattcca 877     
+
+504063-505201: Score 62: 26/27 ( 96%) matches, 1 gaps
+     651 tgtttcaatagacgatcgtct-attgaa 677     
+         |||||||||| |||||||||| ||||||
+     883 acaaagttatttgctagcagattaactt 856     
+
+149557-150861: Score 54: 22/25 ( 88%) matches, 0 gaps
+     605 tatctacagttactttgtaggtaac 629     
+         ||| |  ||||||||||||||||||
+     941 atacacctcaatgaaacatccattg 917     
+
+204332-205497: Score 69: 27/30 ( 90%) matches, 0 gaps
+     899 tgtttcaaaagacgttcgtctgatgcaaca 928     
+         |||||||||||||||||||||  || ||||
+    1059 acaaagttttctgcaagcagaaaactttgt 1030    
+
+204502-205774: Score 69: 27/30 ( 90%) matches, 0 gaps
+     729 tgtttcaaaagacgttcgtctgatgcaaca 758     
+         |||||||||||||||||||||  || ||||
+     889 acaaagttttctgcaagcagaaaactttgt 860     
+
+206661-207973: Score 55: 25/30 ( 83%) matches, 0 gaps
+     912 tgtttcaaaggacgtacgtctgatgtaaca 941     
+         ||||||||| ||||||||| |  || ||||
+    1072 acaaagttttctgcatgcaaaaaactttgt 1043    
+
+207051-208110: Score 55: 25/30 ( 83%) matches, 0 gaps
+     522 tgtttcaaaggacgtacgtctgatgtaaca 551     
+         ||||||||| ||||||||| |  || ||||
+     682 acaaagttttctgcatgcaaaaaactttgt 653     
+
+384196-385488: Score 53: 23/27 ( 85%) matches, 0 gaps
+     599 atcaaataaaaatatccccggaagaaa 625     
+         || ||  |||||||||||||||| |||
+     656 tatttcgtttttataggggcctttttt 630     
+
+384503-385914: Score 53: 23/27 ( 85%) matches, 0 gaps
+     292 atcaaataaaaatatccccggaagaaa 318     
+         || ||  |||||||||||||||| |||
+     349 tatttcgtttttataggggcctttttt 323     
+
+9512-10897: Score 262: 238/342 ( 69%) matches, 3 gaps
+      16 actacttcatccaacacttctgtgtcttccttcagtactatattataggtattttcagcaccaacagtaatcgtctgagatttatacccaatatagctaactgtaaatttagcaccagtagctatcgttaaagagaacttgccgtcaaagtcagttatggtaccattagttgtaccaacttcaacgacacttgcaccaatgattgactcaccggcaccatctgtaatcacacccgtgatagatttcttttgcgccatggccccaagagaacataaaatgcacaaaatcaagaagatggttttcttcataagtattgctttttagttaataataaa-gaaaattat 359     
+         || ||||||||||| || || |  || || ||||| || |||||||| ||  ||||||  |||||  |||| || ||    || || ||||||||||| ||    ||||  | |  ||  || | | |||| |||||||| ||||  || ||||| ||    |||||||| || || ||||| || |||||||| ||||| |  | ||| || | | ||||||| | ||  ||||  || |  ||    || |||||  |   ||  ||    |||  || ||| |  |  || | |  ||| |||||||  |||| |||||||||||||| ||| |||||||||
+    1381 tgttgaagtaggttttggaggcgtaggagaaagtcgtgttataatattcacgaaagtctcggttgaaattaacaaacaacgaacatcggttatatcgagtggttcttaacacttaatccacggtggaaattgctcttgaatggcaaatttagtcattaatgaggtaatcaccaagggtgaagatgttgtgaacggggttattgcccgaggggtcattgtagacaatggtcagggctttagcggaaatggacacggtagtgtaatttgctatcgtttgtcgggttgttttatttttcctgaaaaaagtatt--taactaaaaatcaattattttttccttttaata 1039    
+
+63500-64986: Score 53: 18/19 ( 94%) matches, 0 gaps
+    1210 ttactaaccaagatgttta 1228    
+         || ||||||||||||||||
+    1249 aacgattggttctacaaat 1231    
+
+125234-126498: Score 57: 19/19 (100%) matches, 0 gaps
+     781 tgtttcaaaaaacgttcgt 799     
+         |||||||||||||||||||
+     999 acaaagttttttgcaagca 981     
+
+125500-126601: Score 57: 19/19 (100%) matches, 0 gaps
+     515 tgtttcaaaaaacgttcgt 533     
+         |||||||||||||||||||
+     733 acaaagttttttgcaagca 715     
+
+196852-197996: Score 53: 19/20 ( 95%) matches, 0 gaps
+     767 agttctcttagaactcagtt 786     
+         ||||||||||||||| ||||
+    1059 tcaagagaatcttgaatcaa 1040    
+
+197001-198292: Score 53: 19/20 ( 95%) matches, 0 gaps
+     618 agttctcttagaactcagtt 637     
+         ||||||||||||||| ||||
+     910 tcaagagaatcttgaatcaa 891     
+
+0-809: Score 83: 33/37 ( 89%) matches, 0 gaps
+      10 agttcagttggttagaatacatgcctgtcacgcatgg 46      
+         ||||||| |||||||||||||||  ||| ||||||||
+     248 tcaagtccaccaatcttatgtacttacaatgcgtacc 212     
+
+303556-304962: Score 56: 20/21 ( 95%) matches, 0 gaps
+     814 aaagttctccaggtacttatt 834     
+         ||||| |||||||||||||||
+    1214 tttcatgaggtccatgaataa 1194    
+
+168507-169993: Score 71: 33/40 ( 82%) matches, 0 gaps
+     330 atacgaagttaacttcgtctttgcaaaacattaacttctt 369     
+         |||||||||||||||||| ||| |  |  | |||||||||
+     415 tatgcttcaattgaagcataaaagaatattgattgaagaa 376     
+
+168507-169993: Score 50: 18/19 ( 94%) matches, 0 gaps
+     899 tgtttcaaaagacgttcgt 917     
+         |||||||||| ||||||||
+    1104 acaaagttttttgcaagca 1086    
+
+114049-115431: Score 80: 28/29 ( 96%) matches, 0 gaps
+     775 tgttcccttacttattaggtaatagaaca 803     
+         ||||| |||||||||||||||||||||||
+    1147 acaagagaatgaataatccattatcttgt 1119    
+
+1117-2498: Score 58: 22/24 ( 91%) matches, 0 gaps
+     676 acagtttgtatttgtcctgatgaa 699     
+         |||||||||||||| || ||||||
+     726 tgtcaaacataaacggggctactt 703     
+
+1500-2972: Score 58: 22/24 ( 91%) matches, 0 gaps
+     293 acagtttgtatttgtcctgatgaa 316     
+         |||||||||||||| || ||||||
+     343 tgtcaaacataaacggggctactt 320     
+
+60003-61440: Score 62: 22/23 ( 95%) matches, 0 gaps
+     755 tacttaataggtaagagaatgat 777     
+         |||||||||||||||||||| ||
+    1053 atgaattatccattctcttatta 1031    
+
+15640-16786: Score 69: 23/23 (100%) matches, 0 gaps
+     497 ccgttacttcgtaggtaacggga 519     
+         |||||||||||||||||||||||
+     790 ggcaatgaagcatccattgccct 768     
+
+9009-10499: Score 64: 36/41 ( 87%) matches, 2 gaps
+     341 aaaataaacattctaaggttagtgcaaggtgcaagctatatat 383     
+         |||||||| |||  ||  |||||||||||| |||| |||||||
+     426 ttttatttataa-ctttaaatcacgttccatgttc-atatata 386     
+
+2046-3494: Score 51: 21/24 ( 87%) matches, 0 gaps
+    1118 atattgaaaaataaaagagagtat 1141    
+         ||||   |||||||||||||||||
+    1167 tatattattttattttctctcata 1144    
+
+2516-3569: Score 51: 21/24 ( 87%) matches, 0 gaps
+     648 atattgaaaaataaaagagagtat 671     
+         ||||   |||||||||||||||||
+     697 tatattattttattttctctcata 674     
+
+0-986: Score 148: 92/124 ( 74%) matches, 0 gaps
+     604 tggaaagcgggtgcgtcttctctttcagtgaacaagtcctctttatcattggttaacggtggaaccgggcaaaccgtaaatgttacttccaatgatgattggaacgtctcttaagaggtaaaga 727     
+         |||  |||||| || ||| ||||||| ||||||||||||||  ||||  | || || |  || || || ||||| ||| | ||||| |||||||| || |||   || || ||||| | || ||
+     883 acccgtcgccctcgtagacgagaaagccacttgttcaggagcgatagcgaacacttacgtccctgtcctgtttgccatctgcaatggaggttactgcttacccgtcatagtattcttcgttcct 760     
+
+30-1133: Score 148: 92/124 ( 74%) matches, 0 gaps
+     574 tggaaagcgggtgcgtcttctctttcagtgaacaagtcctctttatcattggttaacggtggaaccgggcaaaccgtaaatgttacttccaatgatgattggaacgtctcttaagaggtaaaga 697     
+         |||  |||||| || ||| ||||||| ||||||||||||||  ||||  | || || |  || || || ||||| ||| | ||||| |||||||| || |||   || || ||||| | || ||
+     853 acccgtcgccctcgtagacgagaaagccacttgttcaggagcgatagcgaacacttacgtccctgtcctgtttgccatctgcaatggaggttactgcttacccgtcatagtattcttcgttcct 730     
+
+71-1353: Score 60: 20/20 (100%) matches, 0 gaps
+      20 aatctctaattaaagggctt 39      
+         ||||||||||||||||||||
+    1194 ttagagattaatttcccgaa 1175    
+
+0-633: Score 57: 19/19 (100%) matches, 0 gaps
+       1 ccccctttttggccctggc 19      
+         |||||||||||||||||||
+     496 gggggaaaaaccgggaccg 478     
+
+0-646: Score 52: 24/29 ( 82%) matches, 0 gaps
+      29 tcccctataaaaccccctaacccagacac 57      
+         |||| |||| || | || |||||||||||
+     508 agggtatatgttagtggtttgggtctgtg 480     

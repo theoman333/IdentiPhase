@@ -1,0 +1,370 @@
+Chrom	Start	End	inv_id	R_to_total	phaseFinder_match
+NODE_1_length_1149012_cov_882.704243	0	497	inv_actual_1	0.943661971830986	False
+NODE_1_length_1149012_cov_882.704243	2006	2433	inv_actual_4	0.0	False
+NODE_1_length_1149012_cov_882.704243	164600	164997	inv_actual_65	0.0	False
+NODE_1_length_1149012_cov_882.704243	165005	165013	inv_actual_67		False
+NODE_1_length_1149012_cov_882.704243	166749	166996	inv_actual_68	0.0	False
+NODE_1_length_1149012_cov_882.704243	167041	167498	inv_actual_69	0.0	False
+NODE_1_length_1149012_cov_882.704243	167501	167932	inv_actual_70	0.0	False
+NODE_1_length_1149012_cov_882.704243	168111	168160	inv_actual_71	0.0	False
+NODE_1_length_1149012_cov_882.704243	204293	204495	inv_actual_87	0.0	False
+NODE_1_length_1149012_cov_882.704243	204555	204643	inv_actual_88	0.0	False
+NODE_1_length_1149012_cov_882.704243	417233	417474	inv_actual_164	0.0	False
+NODE_1_length_1149012_cov_882.704243	13132	13427	inv_actual_170	0.0	False
+NODE_1_length_1149012_cov_882.704243	476164	476491	inv_actual_178	0.0	False
+NODE_1_length_1149012_cov_882.704243	476506	476931	inv_actual_179	0.0	False
+NODE_1_length_1149012_cov_882.704243	494508	494895	inv_actual_186	0.0	False
+NODE_1_length_1149012_cov_882.704243	678121	678475	inv_actual_233	0.0	False
+NODE_1_length_1149012_cov_882.704243	678504	678578	inv_actual_234	0.0	False
+NODE_1_length_1149012_cov_882.704243	783256	783438	inv_actual_257	0.0	False
+NODE_1_length_1149012_cov_882.704243	783528	783996	inv_actual_258	0.0	False
+NODE_1_length_1149012_cov_882.704243	784027	784282	inv_actual_259		False
+NODE_1_length_1149012_cov_882.704243	788388	788493	inv_actual_260	0.0	False
+NODE_1_length_1149012_cov_882.704243	788504	788946	inv_actual_261	0.0	False
+NODE_1_length_1149012_cov_882.704243	969738	969783	inv_actual_296		False
+NODE_2_length_579603_cov_798.880578	0	415	inv_actual_339	0.0333333333333333	False
+NODE_2_length_579603_cov_798.880578	21799	21914	inv_actual_346	0.0	False
+NODE_2_length_579603_cov_798.880578	22046	22161	inv_actual_347	0.0	False
+NODE_2_length_579603_cov_798.880578	213727	213975	inv_actual_426	0.0	False
+NODE_2_length_579603_cov_798.880578	214001	214292	inv_actual_427	0.0	False
+NODE_2_length_579603_cov_798.880578	311834	311979	inv_actual_457	0.0	False
+NODE_2_length_579603_cov_798.880578	312014	312480	inv_actual_458	0.0109890109890109	False
+NODE_2_length_579603_cov_798.880578	312551	312990	inv_actual_459	0.0	False
+NODE_2_length_579603_cov_798.880578	313000	313456	inv_actual_460	0.0	False
+NODE_2_length_579603_cov_798.880578	541182	541366	inv_actual_523	0.0	False
+NODE_2_length_579603_cov_798.880578	9519	9786	inv_actual_533	0.0	False
+NODE_3_length_554028_cov_842.122177	0	498	inv_actual_534	0.0	False
+NODE_3_length_554028_cov_842.122177	38026	38469	inv_actual_549	0.0	False
+NODE_3_length_554028_cov_842.122177	234712	234999	inv_actual_606	0.0	False
+NODE_3_length_554028_cov_842.122177	235001	235135	inv_actual_607	0.0	False
+NODE_3_length_554028_cov_842.122177	504563	504701	inv_actual_693	0.0	False
+NODE_4_length_463966_cov_891.951385	0	497	inv_actual_712	0.0	False
+NODE_4_length_463966_cov_891.951385	150057	150361	inv_actual_754	0.0	False
+NODE_4_length_463966_cov_891.951385	204832	204997	inv_actual_773	0.0	False
+NODE_4_length_463966_cov_891.951385	205002	205274	inv_actual_774	0.0	False
+NODE_4_length_463966_cov_891.951385	207161	207473	inv_actual_775	0.0	False
+NODE_4_length_463966_cov_891.951385	207551	207610	inv_actual_776	0.0	False
+NODE_4_length_463966_cov_891.951385	349774	349958	inv_actual_823	0.0	False
+NODE_4_length_463966_cov_891.951385	362504	362923	inv_actual_831	0.0	False
+NODE_4_length_463966_cov_891.951385	368639	368955	inv_actual_833	0.0	False
+NODE_4_length_463966_cov_891.951385	369005	369253	inv_actual_834	0.0	False
+NODE_4_length_463966_cov_891.951385	384696	384988	inv_actual_839	0.0	False
+NODE_4_length_463966_cov_891.951385	385003	385414	inv_actual_840	0.0	False
+NODE_5_length_415281_cov_752.148563	0	448	inv_actual_866	0.0	False
+NODE_5_length_415281_cov_752.148563	9509	9999	inv_actual_871	0.0	False
+NODE_5_length_415281_cov_752.148563	10012	10397	inv_actual_872		False
+NODE_5_length_415281_cov_752.148563	63084	63484	inv_actual_885	0.0	False
+NODE_5_length_415281_cov_752.148563	63526	63999	inv_actual_886	0.0	False
+NODE_5_length_415281_cov_752.148563	1001	1197	inv_actual_887	0.0	False
+NODE_5_length_415281_cov_752.148563	547	993	inv_actual_888	0.0	False
+NODE_5_length_415281_cov_752.148563	64000	64486	inv_actual_889	0.0	False
+NODE_5_length_415281_cov_752.148563	125734	125998	inv_actual_906	0.0	False
+NODE_5_length_415281_cov_752.148563	126000	126101	inv_actual_907	0.0	False
+NODE_5_length_415281_cov_752.148563	197352	197496	inv_actual_933	0.0	False
+NODE_5_length_415281_cov_752.148563	197501	197792	inv_actual_934	0.0	False
+NODE_5_length_415281_cov_752.148563	255128	255299	inv_actual_948	0.0	False
+NODE_6_length_373718_cov_825.815697	0	309	inv_actual_991	0.2035398230088495	False
+NODE_6_length_373718_cov_825.815697	65340	65471	inv_actual_1011	0.0	False
+NODE_6_length_373718_cov_825.815697	65513	65932	inv_actual_1012	0.0	False
+NODE_7_length_332286_cov_815.863562	0	306	inv_actual_1112	0.0163934426229508	False
+NODE_7_length_332286_cov_815.863562	303852	303999	inv_actual_1198	0.0	False
+NODE_7_length_332286_cov_815.863562	304056	304462	inv_actual_1199	0.0	False
+NODE_8_length_329959_cov_1086.599993	0	497	inv_actual_1207	0.0	False
+NODE_8_length_329959_cov_1086.599993	500	833	inv_actual_1208	0.0	False
+NODE_8_length_329959_cov_1086.599993	1623	1998	inv_actual_1209	0.0	False
+NODE_8_length_329959_cov_1086.599993	9007	9264	inv_actual_1220	0.0	False
+NODE_8_length_329959_cov_1086.599993	16615	16990	inv_actual_1233	0.0	False
+NODE_8_length_329959_cov_1086.599993	23041	23426	inv_actual_1244	0.0	False
+NODE_8_length_329959_cov_1086.599993	2001	2060	inv_actual_1255	0.0	False
+NODE_8_length_329959_cov_1086.599993	213729	213770	inv_actual_1330		False
+NODE_9_length_224187_cov_770.107229	0	485	inv_actual_1331	0.0	False
+NODE_9_length_224187_cov_770.107229	169007	169493	inv_actual_1376	0.0	False
+NODE_10_length_147521_cov_806.406188	0	448	inv_actual_1399	0.0	False
+NODE_10_length_147521_cov_806.406188	114549	114931	inv_actual_1431	0.0	False
+NODE_10_length_147521_cov_806.406188	2114	2289	inv_actual_1437	0.0	False
+NODE_11_length_142389_cov_749.753211	0	415	inv_actual_1438	0.063063063063063	False
+NODE_11_length_142389_cov_749.753211	1617	1998	inv_actual_1440	0.000455373406193	False
+NODE_11_length_142389_cov_749.753211	2000	2472	inv_actual_1475	0.0	False
+NODE_12_length_121957_cov_837.139465	0	462	inv_actual_1487	0.0010604453870625	False
+NODE_12_length_121957_cov_837.139465	11158	11499	inv_actual_1491	0.0	False
+NODE_12_length_121957_cov_837.139465	11521	11767	inv_actual_1492	0.0	False
+NODE_12_length_121957_cov_837.139465	60231	60498	inv_actual_1509	0.0	False
+NODE_12_length_121957_cov_837.139465	60503	60940	inv_actual_1510	0.0	False
+NODE_12_length_121957_cov_837.139465	96003	96343	inv_actual_1525	0.0	False
+NODE_13_length_91348_cov_842.314043	0	111	inv_actual_1535	0.2142857142857142	False
+NODE_13_length_91348_cov_842.314043	16140	16286	inv_actual_1544	0.0	False
+NODE_14_length_80159_cov_828.014148	0	80	inv_actual_1568		False
+NODE_14_length_80159_cov_828.014148	9509	9999	inv_actual_1589	0.0	False
+NODE_14_length_80159_cov_828.014148	10012	10397	inv_actual_1590	0.0	False
+NODE_15_length_60850_cov_861.302815	0	182	inv_actual_1593		False
+NODE_16_length_51978_cov_871.516734	0	498	inv_actual_1616	0.0	False
+NODE_16_length_51978_cov_871.516734	506	605	inv_actual_1617	0.0	False
+NODE_17_length_36636_cov_1420.149813	0	428	inv_actual_1631	0.0	False
+NODE_17_length_36636_cov_1420.149813	2546	2994	inv_actual_1633	0.0	False
+NODE_17_length_36636_cov_1420.149813	3016	3069	inv_actual_1634	0.0	False
+NODE_17_length_36636_cov_1420.149813	15548	15951	inv_actual_1640	0.0	False
+NODE_17_length_36636_cov_1420.149813	16077	16106	inv_actual_1641	0.0	False
+NODE_18_length_27656_cov_842.146597	0	325	inv_actual_1651	0.0	False
+NODE_20_length_13554_cov_786.068080	0	75	inv_actual_1664		False
+NODE_20_length_13554_cov_786.068080	5013	5473	inv_actual_1669	0.0	False
+NODE_20_length_13554_cov_786.068080	5562	5953	inv_actual_1670	0.0	False
+NODE_20_length_13554_cov_786.068080	10643	10995	inv_actual_1676	0.0	False
+NODE_20_length_13554_cov_786.068080	11006	11192	inv_actual_1677	0.0	False
+NODE_20_length_13554_cov_786.068080	13132	13427	inv_actual_1678	0.0	False
+NODE_23_length_6102_cov_22.346881	0	174	inv_actual_1680	0.0	False
+NODE_23_length_6102_cov_22.346881	1149	1386	inv_actual_1682	0.0	False
+NODE_24_length_5627_cov_4.339993	0	468	inv_actual_1684	0.0	False
+NODE_28_length_3755_cov_4.411637	23	113	inv_actual_1690		False
+NODE_29_length_3683_cov_2.198226	0	142	inv_actual_1691		False
+NODE_32_length_3320_cov_140.415048	1	465	inv_actual_1692	0.0	False
+NODE_32_length_3320_cov_140.415048	514	905	inv_actual_1693	0.0	False
+NODE_34_length_2831_cov_54.381264	19	409	inv_actual_1697	0.0	False
+NODE_36_length_2759_cov_58.725578	71	210	inv_actual_1700	0.0	False
+NODE_44_length_2421_cov_5272.395051	0	395	inv_actual_1704	0.0728643216080402	False
+NODE_44_length_2421_cov_5272.395051	2114	2289	inv_actual_1707	2.294788535236478e-05	False
+NODE_50_length_2188_cov_3840.536712	0	352	inv_actual_1711	0.0	False
+NODE_50_length_2188_cov_3840.536712	1617	1998	inv_actual_1713	0.0	False
+NODE_50_length_2188_cov_3840.536712	2000	2061	inv_actual_1714	0.0	False
+NODE_56_length_1891_cov_8.791185	0	148	inv_actual_1719		False
+NODE_61_length_1692_cov_14.481390	0	174	inv_actual_1721	0.0	False
+NODE_61_length_1692_cov_14.481390	1149	1386	inv_actual_1723	0.0	False
+NODE_73_length_1492_cov_4577.822615	0	486	inv_actual_1730	0.0	False
+NODE_73_length_1492_cov_4577.822615	530	633	inv_actual_1731	0.0	False
+NODE_79_length_1384_cov_0.976282	24	121	inv_actual_1738		False
+NODE_83_length_1353_cov_664.781348	3	420	inv_actual_1741	0.0	False
+NODE_83_length_1353_cov_664.781348	571	993	inv_actual_1742	0.0	False
+NODE_83_length_1353_cov_664.781348	1001	1197	inv_actual_1743	0.0	False
+NODE_87_length_1329_cov_3.107029	44	143	inv_actual_1745		False
+NODE_93_length_1247_cov_4.029915	27	303	inv_actual_1747		False
+NODE_119_length_1105_cov_2.093385	4	133	inv_actual_1755	0.0	False
+NODE_161_length_965_cov_4.548931	0	464	inv_actual_1772	0.3333333333333333	False
+NODE_203_length_869_cov_5410.262626	0	442	inv_actual_1780	0.0376490274001255	False
+NODE_209_length_857_cov_10.526923	5	328	inv_actual_1782	0.0	False
+NODE_213_length_855_cov_0.754499	102	244	inv_actual_1784		False
+NODE_222_length_838_cov_11.782895	0	238	inv_actual_1787	0.0	False
+NODE_228_length_831_cov_10.355053	27	283	inv_actual_1789	0.0	False
+NODE_258_length_784_cov_15.602546	25	354	inv_actual_1797	0.0	False
+NODE_297_length_741_cov_5.060241	25	218	inv_actual_1806		False
+NODE_315_length_725_cov_1.252696	1	146	inv_actual_1810		False
+NODE_386_length_668_cov_3.331641	5	109	inv_actual_1825		False
+NODE_410_length_652_cov_5462.120000	0	442	inv_actual_1827	0.0176853232145277	False
+NODE_434_length_634_cov_7.940754	5	138	inv_actual_1834	0.0	False
+NODE_438_length_631_cov_1645.604693	1	497	inv_actual_1836	0.0526315789473684	False
+NODE_477_length_615_cov_7.191450	2	196	inv_actual_1841	0.0	False
+NODE_497_length_606_cov_695.000000	0	477	inv_actual_1846	0.0	False
+NODE_504_length_603_cov_4.903042	15	234	inv_actual_1847		False
+NODE_513_length_598_cov_3.591171	0	226	inv_actual_1849		False
+NODE_520_length_595_cov_6.032819	0	240	inv_actual_1852		False
+NODE_558_length_583_cov_136.543478	1	194	inv_actual_1858	0.0186335403726708	False
+NODE_572_length_574_cov_5.163347	78	132	inv_actual_1860	0.0	False
+NODE_592_length_573_cov_5578.471774	0	448	inv_actual_1861	0.040790907675541	False
+NODE_631_length_562_cov_1.496907	135	244	inv_actual_1864		False
+NODE_665_length_556_cov_5.897704	65	321	inv_actual_1869	0.0	False
+NODE_751_length_538_cov_1.026030	10	221	inv_actual_1883		False
+NODE_773_length_532_cov_5.962637	50	127	inv_actual_1886	0.0	False
+NODE_822_length_522_cov_0.811659	0	163	inv_actual_1891		False
+NODE_830_length_521_cov_4272.394144	0	395	inv_actual_1892	0.0650692821643682	False
+NODE_908_length_509_cov_1.275463	0	206	inv_actual_1901	0.0	False
+NODE_993_length_495_cov_2.153110	18	299	inv_actual_1909	0.0	False
+NODE_1001_length_494_cov_6.237410	32	303	inv_actual_1910	0.0	False
+NODE_1054_length_486_cov_5.500000	25	228	inv_actual_1912	0.0	False
+NODE_1285_length_463_cov_0.963731	8	175	inv_actual_1928		False
+NODE_1313_length_460_cov_4.731070	64	141	inv_actual_1930	0.0	False
+NODE_1314_length_460_cov_4.629243	2	133	inv_actual_1931		False
+NODE_1370_length_455_cov_1.552910	0	254	inv_actual_1932	0.0	False
+NODE_1472_length_447_cov_4.445946	0	221	inv_actual_1935	0.0	False
+NODE_1490_length_446_cov_0.723577	17	175	inv_actual_1936		False
+NODE_1510_length_444_cov_1725.321526	0	309	inv_actual_1937	0.0038674033149171	False
+NODE_1610_length_437_cov_2.763889	0	170	inv_actual_1942	0.0	False
+NODE_1695_length_432_cov_3.715493	5	142	inv_actual_1946		False
+NODE_1735_length_430_cov_9.422096	18	91	inv_actual_1949		False
+NODE_1944_length_419_cov_2.903509	2	228	inv_actual_1958	0.0	False
+NODE_2102_length_412_cov_4.370149	15	113	inv_actual_1967	0.0	False
+NODE_2105_length_412_cov_1.295522	36	254	inv_actual_1968		False
+NODE_2182_length_409_cov_1681.545181	0	2	inv_actual_1969		False
+NODE_2183_length_408_cov_4.030120	0	109	inv_actual_1970	0.0	False
+NODE_2207_length_408_cov_5.691843	0	93	inv_actual_1972		False
+NODE_2278_length_404_cov_19.097859	10	60	inv_actual_1975	0.0	False
+NODE_2555_length_394_cov_663.917981	0	209	inv_actual_1984		False
+NODE_2556_length_394_cov_3.542587	0	86	inv_actual_1985	0.0	False
+NODE_2646_length_391_cov_1.149682	2	240	inv_actual_1991		False
+NODE_2740_length_383_cov_2.247588	54	163	inv_actual_1995		False
+NODE_2830_length_385_cov_3.772727	0	209	inv_actual_1999	0.0	False
+NODE_2900_length_384_cov_1.813725	0	147	inv_actual_2002		False
+NODE_2983_length_382_cov_1.809211	33	135	inv_actual_2006	0.0	False
+NODE_3094_length_378_cov_17.405316	19	180	inv_actual_2011	0.0	False
+NODE_3149_length_377_cov_1.253333	4	97	inv_actual_2014		False
+NODE_3188_length_376_cov_11.685619	0	82	inv_actual_2016		False
+NODE_3230_length_375_cov_1.104027	0	143	inv_actual_2020		False
+NODE_3261_length_374_cov_3.734007	1	124	inv_actual_2021		False
+NODE_3311_length_373_cov_5.250000	0	196	inv_actual_2024	0.0	False
+NODE_3490_length_369_cov_1.510274	3	195	inv_actual_2033		False
+NODE_3577_length_367_cov_1.448276	6	37	inv_actual_2036		False
+NODE_3622_length_366_cov_13.785467	11	162	inv_actual_2038	0.0	False
+NODE_3670_length_365_cov_9.315972	0	158	inv_actual_2041		False
+NODE_3673_length_367_cov_1.812500	7	170	inv_actual_2043		False
+NODE_3716_length_364_cov_1.118467	60	130	inv_actual_2045	0.0	False
+NODE_3753_length_363_cov_1.555944	15	126	inv_actual_2047		False
+NODE_3896_length_360_cov_5.530035	0	158	inv_actual_2057		False
+NODE_3897_length_360_cov_3.349823	0	163	inv_actual_2058	0.0	False
+NODE_4111_length_361_cov_0.532143	0	19	inv_actual_2061		False
+NODE_4162_length_355_cov_2.956835	0	139	inv_actual_2062	0.0	False
+NODE_4254_length_353_cov_1.876812	22	197	inv_actual_2066		False
+NODE_4402_length_350_cov_3.010989	8	155	inv_actual_2074		False
+NODE_4468_length_349_cov_2.529412	88	180	inv_actual_2076	0.0	False
+NODE_4594_length_347_cov_5.296296	0	86	inv_actual_2080		False
+NODE_4947_length_341_cov_1.928030	0	137	inv_actual_2091		False
+NODE_5011_length_340_cov_3.722433	0	167	inv_actual_2094		False
+NODE_5012_length_340_cov_1.821293	14	136	inv_actual_2095	0.0	False
+NODE_5077_length_339_cov_6.007634	17	134	inv_actual_2099		False
+NODE_5078_length_339_cov_1.587786	0	159	inv_actual_2100		False
+NODE_5079_length_339_cov_1.312977	0	151	inv_actual_2101		False
+NODE_5406_length_334_cov_5.070039	12	123	inv_actual_2112		False
+NODE_5491_length_333_cov_3.929688	7	83	inv_actual_2117		False
+NODE_5558_length_332_cov_5.411765	55	180	inv_actual_2121		False
+NODE_5820_length_328_cov_5.689243	58	181	inv_actual_2131	0.0	False
+NODE_5891_length_327_cov_7.092000	2	110	inv_actual_2133	0.0	False
+NODE_6066_length_325_cov_0.923387	8	38	inv_actual_2137		False
+NODE_6354_length_321_cov_6.520492	14	143	inv_actual_2149	0.0	False
+NODE_6402_length_321_cov_0.815574	37	158	inv_actual_2152		False
+NODE_6424_length_320_cov_11.967078	0	167	inv_actual_2154	0.0	False
+NODE_6425_length_320_cov_3.016461	27	119	inv_actual_2155		False
+NODE_6457_length_320_cov_0.938272	6	71	inv_actual_2156		False
+NODE_6734_length_316_cov_2.142259	9	118	inv_actual_2166		False
+NODE_6986_length_313_cov_1.580508	0	140	inv_actual_2179		False
+NODE_6988_length_313_cov_1.360169	22	164	inv_actual_2180		False
+NODE_7007_length_313_cov_1.228814	0	101	inv_actual_2181		False
+NODE_7078_length_312_cov_1.719149	3	84	inv_actual_2185		False
+NODE_7162_length_311_cov_7217.465812	0	140	inv_actual_2191	0.0	False
+NODE_7164_length_311_cov_1.876068	3	133	inv_actual_2192		False
+NODE_7418_length_304_cov_4.346320	1	124	inv_actual_2202		False
+NODE_7493_length_307_cov_2.869565	0	110	inv_actual_2204	0.0	False
+NODE_7496_length_307_cov_1.652174	28	87	inv_actual_2205		False
+NODE_7502_length_307_cov_1.373913	2	91	inv_actual_2207		False
+NODE_7600_length_306_cov_1.681223	0	155	inv_actual_2209	0.0	False
+NODE_7688_length_305_cov_3.451754	0	127	inv_actual_2212		False
+NODE_7689_length_305_cov_2.609649	4	137	inv_actual_2213	0.0	False
+NODE_7691_length_305_cov_1.517544	42	113	inv_actual_2214		False
+NODE_7696_length_305_cov_1.346491	2	94	inv_actual_2215		False
+NODE_7842_length_304_cov_0.911894	1	83	inv_actual_2222		False
+NODE_7883_length_303_cov_2.491150	29	150	inv_actual_2225		False
+NODE_7952_length_303_cov_0.836283	32	90	inv_actual_2230		False
+NODE_8591_length_296_cov_5.424658	0	133	inv_actual_2253	0.0	False
+NODE_8592_length_296_cov_2.840183	2	114	inv_actual_2254		False
+NODE_8612_length_296_cov_1.342466	7	122	inv_actual_2255		False
+NODE_8693_length_295_cov_2.518349	0	83	inv_actual_2259	0.0	False
+NODE_8809_length_294_cov_2.059908	9	141	inv_actual_2264	0.0	False
+NODE_8934_length_292_cov_3.995370	3	112	inv_actual_2267		False
+NODE_9047_length_292_cov_3.716279	0	91	inv_actual_2270		False
+NODE_9114_length_292_cov_0.981395	2	98	inv_actual_2274	0.0	False
+NODE_9392_length_289_cov_1.599057	10	65	inv_actual_2291		False
+NODE_9702_length_287_cov_0.842857	1	136	inv_actual_2303		False
+NODE_9770_length_286_cov_1.277512	1	39	inv_actual_2306		False
+NODE_9882_length_285_cov_1.403846	18	74	inv_actual_2310		False
+NODE_9890_length_285_cov_1.336538	0	77	inv_actual_2311		False
+NODE_9900_length_285_cov_1.139423	45	83	inv_actual_2312		False
+NODE_10108_length_283_cov_1.349515	14	45	inv_actual_2321		False
+NODE_10193_length_282_cov_2.819512	3	97	inv_actual_2325		False
+NODE_10344_length_281_cov_17.730392	0	111	inv_actual_2332	0.0	False
+NODE_10698_length_280_cov_4.527094	29	91	inv_actual_2337		False
+NODE_11221_length_280_cov_1.574257	35	106	inv_actual_2350		False
+NODE_11832_length_278_cov_1.427861	4	46	inv_actual_2354	0.0	False
+NODE_11836_length_278_cov_1.383085	11	90	inv_actual_2356		False
+NODE_12411_length_277_cov_2.900000	0	117	inv_actual_2360		False
+NODE_12455_length_277_cov_1.165000	5	40	inv_actual_2362		False
+NODE_13114_length_276_cov_1.336683	0	78	inv_actual_2369		False
+NODE_13779_length_275_cov_1.363636	0	124	inv_actual_2373		False
+NODE_14456_length_274_cov_1.258883	5	122	inv_actual_2375		False
+NODE_15102_length_272_cov_1.510204	6	115	inv_actual_2380	0.0	False
+NODE_15749_length_273_cov_1.841026	0	89	inv_actual_2387		False
+NODE_17195_length_270_cov_2.005181	1	106	inv_actual_2397		False
+NODE_17940_length_269_cov_900.385417	0	121	inv_actual_2400	0.0	False
+NODE_17942_length_269_cov_2.031250	0	104	inv_actual_2402		False
+NODE_17943_length_269_cov_1.979167	0	108	inv_actual_2403		False
+NODE_18739_length_268_cov_2.874346	0	112	inv_actual_2408		False
+NODE_18740_length_268_cov_2.319372	14	63	inv_actual_2409		False
+NODE_18754_length_267_cov_1.544503	18	75	inv_actual_2412		False
+NODE_18829_length_268_cov_0.785340	0	65	inv_actual_2417		False
+NODE_19569_length_267_cov_4.268421	0	116	inv_actual_2418	0.0	False
+NODE_20466_length_266_cov_1.931217	24	87	inv_actual_2428	0.0	False
+NODE_21362_length_265_cov_1.872340	8	84	inv_actual_2434		False
+NODE_23363_length_263_cov_587.607527	0	131	inv_actual_2449		False
+NODE_23364_length_263_cov_2.940860	0	50	inv_actual_2450		False
+NODE_23365_length_263_cov_2.091398	10	110	inv_actual_2451	0.0	False
+NODE_23812_length_263_cov_0.795699	4	56	inv_actual_2459		False
+NODE_24385_length_262_cov_4.708108	0	107	inv_actual_2463		False
+NODE_25362_length_261_cov_3.076087	3	87	inv_actual_2467	0.0	False
+NODE_25441_length_261_cov_1.043478	0	105	inv_actual_2472		False
+NODE_26359_length_261_cov_1.841530	0	111	inv_actual_2476		False
+NODE_28363_length_258_cov_559.629834	0	92	inv_actual_2486	0.0	False
+NODE_28377_length_259_cov_1.624309	56	113	inv_actual_2489		False
+NODE_29448_length_257_cov_1.461111	0	91	inv_actual_2496		False
+NODE_30444_length_256_cov_4.944134	0	103	inv_actual_2499		False
+NODE_31451_length_255_cov_3.505618	3	92	inv_actual_2506	0.0	False
+NODE_31531_length_255_cov_1.078652	0	46	inv_actual_2510		False
+NODE_32509_length_254_cov_2.000000	3	43	inv_actual_2515		False
+NODE_33623_length_253_cov_3.863636	0	102	inv_actual_2524		False
+NODE_34845_length_252_cov_0.902857	18	89	inv_actual_2539		False
+NODE_35874_length_251_cov_5.689655	12	82	inv_actual_2542		False
+NODE_35922_length_251_cov_1.281609	0	48	inv_actual_2545		False
+NODE_35938_length_250_cov_1.241379	22	67	inv_actual_2546	0.0	False
+NODE_38115_length_249_cov_2.052326	4	76	inv_actual_2566	0.0	False
+NODE_38154_length_249_cov_1.540698	0	95	inv_actual_2569		False
+NODE_42950_length_245_cov_1.000000	0	98	inv_actual_2604		False
+NODE_44184_length_244_cov_6.000000	0	85	inv_actual_2607		False
+NODE_44187_length_244_cov_2.245509	8	51	inv_actual_2609		False
+NODE_44196_length_243_cov_1.772455	0	58	inv_actual_2611		False
+NODE_45567_length_243_cov_1.728916	0	93	inv_actual_2623		False
+NODE_45574_length_243_cov_1.662651	0	105	inv_actual_2624		False
+NODE_45587_length_243_cov_1.337349	0	92	inv_actual_2625		False
+NODE_45619_length_243_cov_1.246988	8	99	inv_actual_2629		False
+NODE_45624_length_243_cov_1.138554	0	50	inv_actual_2630		False
+NODE_45625_length_243_cov_1.138554	0	74	inv_actual_2631		False
+NODE_46899_length_243_cov_0.740964	0	93	inv_actual_2637		False
+NODE_46952_length_242_cov_3.393939	0	55	inv_actual_2640		False
+NODE_48400_length_241_cov_6.054878	5	81	inv_actual_2650		False
+NODE_48402_length_241_cov_2.201220	0	49	inv_actual_2652		False
+NODE_48427_length_241_cov_1.670732	0	66	inv_actual_2655	0.0	False
+NODE_48431_length_241_cov_1.621951	2	87	inv_actual_2656		False
+NODE_51129_length_239_cov_2.456790	15	95	inv_actual_2677		False
+NODE_52575_length_238_cov_3.950311	0	92	inv_actual_2688		False
+NODE_52822_length_238_cov_0.919255	3	67	inv_actual_2696		False
+NODE_54912_length_237_cov_0.912500	10	71	inv_actual_2702		False
+NODE_56779_length_235_cov_2.050633	0	60	inv_actual_2715		False
+NODE_56805_length_235_cov_1.601266	0	50	inv_actual_2717		False
+NODE_57061_length_236_cov_0.936709	33	92	inv_actual_2722		False
+NODE_58179_length_234_cov_2.949045	6	84	inv_actual_2727		False
+NODE_58180_length_234_cov_2.496815	2	80	inv_actual_2728		False
+NODE_58182_length_234_cov_2.012739	16	78	inv_actual_2729	0.0	False
+NODE_58231_length_234_cov_1.331210	0	54	inv_actual_2732		False
+NODE_59455_length_232_cov_0.898089	23	87	inv_actual_2736		False
+NODE_59611_length_233_cov_2.442308	0	59	inv_actual_2740		False
+NODE_59657_length_233_cov_1.461538	0	78	inv_actual_2742		False
+NODE_59690_length_232_cov_1.339744	5	64	inv_actual_2744	0.0	False
+NODE_61100_length_232_cov_3.296774	0	76	inv_actual_2753		False
+NODE_62626_length_231_cov_2.753247	53	87	inv_actual_2769	0.0	False
+NODE_64004_length_231_cov_0.870130	25	78	inv_actual_2777		False
+NODE_64837_length_230_cov_0.960784	9	69	inv_actual_2786		False
+NODE_65677_length_229_cov_2.335526	0	71	inv_actual_2792		False
+NODE_67176_length_197_cov_358.183333	14	43	inv_actual_2802		False
+NODE_67177_length_197_cov_104.550000	0	44	inv_actual_2803		False
+NODE_67179_length_197_cov_1.158333	1	21	inv_actual_2804		False
+NODE_67183_length_195_cov_0.983051	6	32	inv_actual_2806		False
+NODE_67184_length_195_cov_0.974576	2	35	inv_actual_2807		False
+NODE_67188_length_195_cov_0.516949	0	44	inv_actual_2810		False
+NODE_67198_length_181_cov_703.240385	0	41	inv_actual_2812	0.0	False
+NODE_67199_length_181_cov_634.644231	0	54	inv_actual_2813	0.0	False
+NODE_67203_length_179_cov_662.186275	0	30	inv_actual_2814	0.0	False
+NODE_67204_length_178_cov_1744.198020	0	49	inv_actual_2815	0.0	False
+NODE_67208_length_171_cov_2935.787234	1	43	inv_actual_2816	3.726893261776983e-05	False
+NODE_67213_length_165_cov_1467.829545	2	16	inv_actual_2817	0.0	False
+NODE_67219_length_162_cov_2803.717647	0	5	inv_actual_2819	0.0	False
+NODE_67231_length_155_cov_3303.051282	0	26	inv_actual_2821	0.0006478781988986	False
+NODE_67233_length_155_cov_3138.294872	0	29	inv_actual_2823	0.0	False
+NODE_67234_length_155_cov_2282.974359	0	28	inv_actual_2824	0.0	False
+NODE_67235_length_155_cov_1700.474359	0	4	inv_actual_2825		False
+NODE_67236_length_155_cov_1435.217949	0	31	inv_actual_2826	0.0	False
+NODE_67237_length_155_cov_1007.858974	0	29	inv_actual_2827	0.0	False
+NODE_67241_length_154_cov_381.207792	0	25	inv_actual_2829		False
+NODE_67243_length_153_cov_2801.973684	0	25	inv_actual_2830		False
+NODE_67251_length_148_cov_759.901408	0	12	inv_actual_2831		False

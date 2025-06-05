@@ -1,0 +1,103 @@
+- STAGE: Before start
+  args: []
+  config_dir: ''
+  del_after:
+  - .bin_reads
+  - tmp/spades_19r3ezrv
+  - configs
+  output_files: []
+  path: 'true'
+  short_name: before_start
+- STAGE: Assembling
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: as_start
+- STAGE: K21
+  args:
+  - /home/omri/Identiphase/homeomriIdentiphase/K21/configs/config.info
+  - /home/omri/Identiphase/homeomriIdentiphase/K21/configs/isolate_mode.info
+  config_dir: K21
+  del_after: []
+  output_files: []
+  path: /home/omri/miniconda3/bin/spades-core
+  short_name: k21
+- STAGE: K33
+  args:
+  - /home/omri/Identiphase/homeomriIdentiphase/K33/configs/config.info
+  - /home/omri/Identiphase/homeomriIdentiphase/K33/configs/isolate_mode.info
+  config_dir: K33
+  del_after: []
+  output_files: []
+  path: /home/omri/miniconda3/bin/spades-core
+  short_name: k33
+- STAGE: K55
+  args:
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/configs/config.info
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/configs/isolate_mode.info
+  config_dir: K55
+  del_after: []
+  output_files: []
+  path: /home/omri/miniconda3/bin/spades-core
+  short_name: k55
+- STAGE: Copy files
+  args:
+  - /home/omri/miniconda3/share/spades/spades_pipeline/scripts/copy_files.py
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/before_rr.fasta
+  - /home/omri/Identiphase/homeomriIdentiphase/before_rr.fasta
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/assembly_graph_after_simplification.gfa
+  - /home/omri/Identiphase/homeomriIdentiphase/assembly_graph_after_simplification.gfa
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/final_contigs.fasta
+  - /home/omri/Identiphase/homeomriIdentiphase/contigs.fasta
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/first_pe_contigs.fasta
+  - /home/omri/Identiphase/homeomriIdentiphase/first_pe_contigs.fasta
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/strain_graph.gfa
+  - /home/omri/Identiphase/homeomriIdentiphase/strain_graph.gfa
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/scaffolds.fasta
+  - /home/omri/Identiphase/homeomriIdentiphase/scaffolds.fasta
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/scaffolds.paths
+  - /home/omri/Identiphase/homeomriIdentiphase/scaffolds.paths
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/assembly_graph_with_scaffolds.gfa
+  - /home/omri/Identiphase/homeomriIdentiphase/assembly_graph_with_scaffolds.gfa
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/assembly_graph.fastg
+  - /home/omri/Identiphase/homeomriIdentiphase/assembly_graph.fastg
+  - /home/omri/Identiphase/homeomriIdentiphase/K55/final_contigs.paths
+  - /home/omri/Identiphase/homeomriIdentiphase/contigs.paths
+  config_dir: ''
+  del_after:
+  - .bin_reads
+  - tmp/spades_uz6t0q6k
+  output_files: []
+  path: /home/omri/miniconda3/bin/python3
+  short_name: copy_files
+- STAGE: Assembling
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: as_finish
+- STAGE: Breaking scaffolds
+  args:
+  - /home/omri/miniconda3/share/spades/spades_pipeline/scripts/breaking_scaffolds_script.py
+  - --result_scaffolds_filename
+  - /home/omri/Identiphase/homeomriIdentiphase/scaffolds.fasta
+  - --misc_dir
+  - /home/omri/Identiphase/homeomriIdentiphase/misc
+  - --threshold_for_breaking_scaffolds
+  - '3'
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: /home/omri/miniconda3/bin/python3
+  short_name: bs
+- STAGE: Terminate
+  args: []
+  config_dir: ''
+  del_after:
+  - configs
+  output_files: []
+  path: 'true'
+  short_name: terminate
